@@ -1,0 +1,66 @@
+[
+    {
+        "autor": "Gimenez, Gilberto",
+        "year": 2005,
+        "name": "La identidad como cultura y la cultura como identidad",
+        "city": "México",
+        "ed": "Instituto de Investigaciones Sociales. UNAM",
+        "link": "http://perio.unlp.edu.ar/teorias2/textos/articulos/gimenez.pdf"
+    },
+    {
+        "autor": "Márquez, Francisca",
+        "year": 2007,
+        "name": "Historias e Identidades barriales del gran Santiago, 1950 - 2000",
+        "city": "Santiago,Chile",
+        "ed": "VI Congreso Chileno de Antropología",
+        "link": "http://www.scielo.org.ar/scielo.php?script=sci_arttext&pid=S1851-16942009000200011&lng=es&tlng=es"
+    },
+    {
+        "autor": "Jodelet, Denise",
+        "year": 2010,
+        "name": "La memoria de los lugares urbanos",
+        "city": "México",
+        "ed": "Taller Internacional sobre memoria urbana y narrativa. UNAM.",
+        "link": "http://www.redalyc.org/articulo.oa?id=74720828007"
+    },
+    {
+        "autor": "Giménez, Gilberto",
+        "year": 2009,
+        "name": "Memorias, relatos e identidades urbanas",
+        "city": "México",
+        "ed": "Revista de estudios de Comunicación y Política",
+        "link": "http://ccdoc.iteso.mx/cat.aspx?cmn=download&ID=5734&N=1"
+    },
+    {
+        "autor": "Cornejo, Marcela",
+        "year": 2006,
+        "name": "Pistas para el estudio de la identidad",
+        "city": "Santiago,Chile",
+        "ed": "Publicación Identidad, comunidad y desarrollo",
+        "link": "http://www.ministeriodesarrollosocial.gob.cl/btca/txtcompleto/mideplan/identid-comunidad-des.pdf"
+    },
+    {
+        "autor": "Jelin. Elizabeth",
+        "year": 2002,
+        "name": "Los trabajos de la memoria",
+        "city": "España",
+        "ed": "Siglo XXI editores, Colección Memorias de la Represión",
+        "link": "http://www.rhistoria.usach.cl/sites/historia/files/337-732-1-sm.pdf"
+    },
+    {
+        "autor": "Reffestin, Claude ",
+        "year": 1980,
+        "name": "Por una geografía del poder",
+        "city": "París, Francia",
+        "ed": "Colección Fuentes",
+        "link": "https://books.google.cl/books/about/Por_una_geograf%C3%ADa_del_poder.html?id=hyXJoAEACAAJ&redir_esc=y"
+    },
+    {
+        "autor": "Christlieb, Federico",
+        "year": 2006,
+        "name": "Geografía Cultural",
+        "city": "México",
+        "ed": "Tratado de Geografía Humana, UNAM.",
+        "link": "http://www.igeograf.unam.mx/sigg/cultural/vista/archivos/publicacion/Geografia_cultural_tratado_geo_humana.pdf"
+    }
+]
